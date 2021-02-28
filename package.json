@@ -12,7 +12,7 @@
     "Mihai Bazon <mihai.bazon@gmail.com> (http://lisperator.net/)"
   ],
   "repository": "mishoo/UglifyJS",
-  "main": "tools/node.js",
+  "main": "tools/browser.js",
   "bin": {
     "uglifyjs": "bin/uglifyjs"
   },
